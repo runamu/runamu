@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHub repository!
+
+- 👩‍💻 I’m a Master's student in the Interdisciplinary Program in AI (IPAI) at Seoul National University.
+- 🌐 Visit my [personal homepage](https://yedasong.com).
+- 📄 Check out my [CV](https://yedasong.com/data/Yeda_Song-CV.pdf).
+- 📧 Reach me at [yeda.song@vision.snu.ac.kr](mailto:yeda.song@vision.snu.ac.kr).
+
+
 <!--
 **runamu/runamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,9 +7,9 @@ I’m a Master's student in the Interdisciplinary Program in AI at Seoul Nationa
 My research interest lies in deep reinforcement learning (RL), particularly in devising intelligent agents capable of solving novel tasks. I believe such a goal can be achieved by learning proper abstractions, utilizing language models, and taking model-based approaches.
 
 If you want to learn more about me:
-- 🌐 Visit my [personal website](https://yedasong.com).
-- 📄 Check out my [CV](https://yedasong.com/data/Yeda_Song-CV.pdf).
-- 📧 Reach me at [yeda.song@vision.snu.ac.kr](mailto:yeda.song@vision.snu.ac.kr).
+- 🌐 Visit my [personal website](https://yedasong.com)
+- 📄 Check out my [CV](https://yedasong.com/data/Yeda_Song-CV.pdf)
+- 📧 Reach me at [yeda.song@vision.snu.ac.kr](mailto:yeda.song@vision.snu.ac.kr)
 
 
 <!--

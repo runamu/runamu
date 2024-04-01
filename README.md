@@ -2,8 +2,7 @@
 
 Hi, welcome to Yeda Song's GitHub repository!
 
-I'm an incoming Ph.D. student joining [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)'s group at UNC Chapel Hill. 
-Before that, I received my M.S. in Artificial Intelligence at Seoul National University, under the supervision of [Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
+I received my M.S. in Artificial Intelligence at Seoul National University, under the supervision of [Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
 
 My research interest lies in deep reinforcement learning (RL), particularly in devising intelligent agents capable of solving novel tasks. I believe such a goal can be achieved by learning proper abstractions, utilizing language models, and taking model-based approaches.
 

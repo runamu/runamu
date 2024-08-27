@@ -1,10 +1,11 @@
-### Welcome 👋
+### Hi There 👋
 
-Hi, welcome to Yeda Song's GitHub repository!
+Thank you for visiting my GitHub repository!
 
+My name is **Yeda Song**, and I am a PhD student in Computer Science and Engineering at the University of Michigan. I have the honor of being supervised by [Honglak Lee](https://web.eecs.umich.edu/~honglak/).
 I received my M.S. in Artificial Intelligence at Seoul National University, under the supervision of [Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
 
-My research interest lies in deep reinforcement learning (RL), particularly in devising intelligent agents capable of solving novel tasks. I believe such a goal can be achieved by learning proper abstractions, utilizing language models, and taking model-based approaches.
+My research goal is to develop generalizable agents for real-world settings. I am particularly interested in combining deep reinforcement learning (RL) with vision-language models.
 
 If you want to learn more about me:
 - 🌐 Visit my [personal website](https://yedasong.com)

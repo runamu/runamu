@@ -10,7 +10,7 @@ My research goal is to develop generalizable agents for real-world settings. I a
 If you want to learn more about me:
 - 🌐 Visit my [personal website](https://yedasong.com)
 - 📄 Check out my [CV](https://yedasong.com/data/Yeda_Song-CV.pdf)
-- 📧 Reach me at [yeda.song@vision.snu.ac.kr](mailto:yeda.song@vision.snu.ac.kr)
+- 📧 Reach me at [yedasong@umich.edu](mailto:yedasong@umich.edu) or [yeda.song@vision.snu.ac.kr](mailto:yeda.song@vision.snu.ac.kr)
 
 
 <!--

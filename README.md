@@ -1,6 +1,7 @@
 ### Hi There 👋
 
-Thank you for visiting my GitHub repository!
+Thank you for visiting my GitHub repository!  
+I'm **Yeda Song**, a CSE PhD student @ University of Michigan.  
 
 <!--
 My name is **Yeda Song**, and I am a PhD student in Computer Science and Engineering at the University of Michigan. I have the honor of being supervised by Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/).
@@ -9,7 +10,6 @@ I received my M.S. in Artificial Intelligence at Seoul National University, unde
 My research goal is to develop generalizable agents for real-world settings. I am particularly interested in combining deep reinforcement learning (RL) with vision-language models.
 -->
 
-I'm **Yeda Song**, a CSE PhD student @ University of Michigan.  
 If you want to learn more about me:
 - 🌐 Visit my [personal website](https://yedasong.com)
 - 📄 Check out my [CV](https://yedasong.com/data/Yeda_Song-CV.pdf)
